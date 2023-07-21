@@ -39,3 +39,9 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
           -**altrimenti** scrivo il valore di i in scriviValore
 
   - prima della fine del ciclo stampo in console il scriviValore
+
+  -- fatto
+
+  ## svolgimento bonus 1
+
+  inserisco tutti gli append dentro la
