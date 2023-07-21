@@ -22,3 +22,18 @@ Applica stili differenti agli elementi aggiunti al DOM nel _BONUS 1_, a seconda 
 Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
 
 ## svolgimento:
+
+- creo una variabile per scrivere il valore da dare in output ( scriviValore)
+- eseguo un clclo da 1 a 100
+
+  - verifico la variabile del contatore ( i )
+
+    -**se** i è multiplo di 3 scrivo Fizz in scriviValore
+
+    -**se** i è multiplo di 5 scrivo buzz in scriviValore
+
+    -**se** i è sia multipo di 3 e di 5 scrivo FizzBuzz in scriviValore
+
+    -**altrimenti** scrivo il valore di i in scriviValore
+
+  - stampo in console il scriviValore
