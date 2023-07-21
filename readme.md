@@ -28,12 +28,14 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
 
   - verifico la variabile del contatore ( i )
 
-    -**se** i è multiplo di 3 scrivo Fizz in scriviValore
-
-    -**se** i è multiplo di 5 scrivo buzz in scriviValore
-
     -**se** i è sia multipo di 3 e di 5 scrivo FizzBuzz in scriviValore
 
-    -**altrimenti** scrivo il valore di i in scriviValore
+    - **altrimenti**
 
-  - stampo in console il scriviValore
+      -**se** i è multiplo di 3 scrivo Fizz in scriviValore
+
+      -**altrimenti se** i è multiplo di 5 scrivo buzz in scriviValore
+
+          -**altrimenti** scrivo il valore di i in scriviValore
+
+  - prima della fine del ciclo stampo in console il scriviValore
